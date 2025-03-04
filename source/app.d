@@ -81,7 +81,7 @@ void createDMan() {
     ];
 
     string svg = createSvg(fileSize, elements);
-    svg.toFile("output.svg");
+    svg.toFile("d-man.svg");
 }
 
 void main() {
