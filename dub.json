@@ -3,7 +3,7 @@
 		"kip2"
 	],
 	"copyright": "Copyright © 2025, kip2",
-	"description": "A minimal D application.",
-	"license": "proprietary",
+	"description": "d-man's SVG and an SVG library.",
+	"license": "BSL-1.0",
 	"name": "d-man-svg-project"
 }
