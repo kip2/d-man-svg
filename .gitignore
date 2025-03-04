@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/d-man-svg-project
+d-man-svg-project.so
+d-man-svg-project.dylib
+d-man-svg-project.dll
+d-man-svg-project.a
+d-man-svg-project.lib
+d-man-svg-project-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst
