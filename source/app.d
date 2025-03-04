@@ -56,7 +56,7 @@ void createDMan() {
 
 
         // right arm
-        new Path("M100 200 l-60 -60 l120 -120 ", "none", "black", 7, "none"),
+        new Path("M110 210 l-70 -70 l120 -120 ", "none", "black", 7, "none"),
         // right hand
         new Ellipse(160, 30, 20, 30,"white", "black", 3),
 
